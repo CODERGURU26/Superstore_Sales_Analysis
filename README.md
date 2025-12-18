@@ -1,3 +1,8 @@
+## 📊 Dashboard Preview
+![Dashboard](dashboard.png)
+
+
+
 # 📊 Superstore Sales Analysis 
 
 ## 📌 Project Overview
