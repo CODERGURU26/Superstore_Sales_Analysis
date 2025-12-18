@@ -87,7 +87,7 @@ The objective is to uncover key business insights related to **sales performance
 ---
 
 ## 👤 Author
-**Guru Sharma**  
+**Gururaj Krishna Sharma**  
 Aspiring Data Analyst / Full Stack Developer  
 Skilled in Excel, Data Analysis, React, Firebase
 
