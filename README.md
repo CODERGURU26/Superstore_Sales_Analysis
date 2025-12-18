@@ -1,4 +1,4 @@
-# 📊 Superstore Sales Analysis (Excel EDA)
+# 📊 Superstore Sales Analysis 
 
 ## 📌 Project Overview
 This project focuses on performing **Exploratory Data Analysis (EDA)** on a Superstore sales dataset using **Microsoft Excel Online**.  
